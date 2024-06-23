@@ -3,10 +3,10 @@ This is a basic boilerplate project to start creating APIs with Node.js and Expr
 # Getting started
 Install the dependencies:
 ```
-npm i
+npm i || yarn
 ```
 and then run:
 ```
-npm run start
+npm run start || yarn start
 ```
 to start the server.
