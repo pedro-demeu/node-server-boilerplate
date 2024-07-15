@@ -10,3 +10,5 @@ and then run:
 npm run start || yarn start
 ```
 to start the server.
+
+dd if=/dev/random of=item bs=50000000 count=1
